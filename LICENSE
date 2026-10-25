@@ -1,0 +1,47 @@
+KSP Outer Planets Mod 简体中文补丁 —— 许可
+KSP Outer Planets Mod Simplified Chinese Patch — License
+
+本仓库只包含翻译文本（.cfg / .json），不包含任何原模组的模型、纹理、代码或配置。
+This repository contains translation text only (.cfg / .json). It contains no models,
+textures, code or configuration from the original mod.
+
+======================================================================
+许可
+License
+======================================================================
+
+原模组 Outer Planets Mod 的作者为 Poodmund 及其贡献者，按
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0) 发布。
+
+本仓库中的中文翻译作为该作品的改编，同样按 CC BY-NC-SA 4.0 发布。
+
+The original Outer Planets Mod is by Poodmund and contributors and is licensed
+under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0).
+
+The Chinese translation in this repository is a derivative work and is likewise
+licensed under CC BY-NC-SA 4.0.
+
+协议全文 / Full license text:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+要点 / Summary:
+  - 署名 / Attribution：注明原作者 Poodmund 及本翻译作者
+    credit Poodmund as the original author and the translator of this patch
+  - 非商业 / NonCommercial：不得用于商业目的
+    commercial use is not permitted
+  - 相同方式共享 / ShareAlike：改编作品须以相同协议发布
+    derivative works must be distributed under the same license
+
+======================================================================
+免责声明
+Disclaimer
+======================================================================
+
+本补丁为非官方社区翻译，与 Outer Planets Mod 的作者无隶属关系，也未获其背书。
+如原作者要求下架，本仓库将立即移除。
+
+This patch is an unofficial community translation. It is not affiliated with or
+endorsed by the author of Outer Planets Mod. If the original author requests
+removal, this repository will be taken down promptly.
